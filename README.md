@@ -3,3 +3,5 @@ Read a table of contents. Receipt, bill, schedule, etc. and extract the informat
 
 
 .ipynb(notebook) files are uploaded in the repo. Please pull andd use with an editor such an Anaconda 3.
+
+3 different ways of solving the same
